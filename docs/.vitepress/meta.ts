@@ -1,0 +1,1 @@
+export const base = "/RainWorld-Modding-Docs"
