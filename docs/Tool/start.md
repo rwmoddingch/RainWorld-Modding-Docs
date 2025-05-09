@@ -1,7 +1,7 @@
 ::: warning 警告
 
 本文档非官方文档, 可能存在错误. 
-如果发现错误请 [在此](https://github.com/lonelyang/RainWorld-Modding-Docs/issues) 报告. 
+如果发现错误请 [在此](https://github.com/rwmoddingch/RainWorld-Modding-Docs/issues) 报告. 
 
 :::
 

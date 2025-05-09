@@ -10,7 +10,7 @@ export default defineConfig({
   themeConfig: {
     logo: '/Survivor-icon-small.png',
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/lonelyang/RainWorld-Modding-Docs' }
+      { icon: 'github', link: 'https://github.com/rwmoddingch/RainWorld-Modding-Docs' }
     ],
     search: { provider: 'local' },
   },

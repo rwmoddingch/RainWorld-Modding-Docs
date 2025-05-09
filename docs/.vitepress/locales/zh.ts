@@ -74,7 +74,7 @@ export const zhConfig = defineConfig({
       }
     },
     editLink: {
-      pattern: 'https://github.com/lonelyang/RainWorld-Modding-Docs/edit/main/docs/:path',
+      pattern: 'https://github.com/rwmoddingch/RainWorld-Modding-Docs/edit/main/docs/:path',
       text: '在GitHub上编辑这个页面'
     },
     footer: {
