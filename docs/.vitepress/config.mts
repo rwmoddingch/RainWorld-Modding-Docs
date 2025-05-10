@@ -4,7 +4,7 @@ import { zhConfig } from './locales/zh.ts'
 import { base } from './meta.ts'
 
 export default defineConfig({
-  base: base + "/",
+  base: base + '/',
   lastUpdated: true,
   ignoreDeadLinks: true,
   themeConfig: {
@@ -19,6 +19,6 @@ export default defineConfig({
     //en: { label: 'English', lang: 'en', ...enConfig }
   },
   head: [
-    ['link', { rel: 'icon', type: 'image/png', href: `/Survivor-icon-small.png` }]
+    ['link', { rel: 'icon', type: 'image/png', href: base + '/Survivor-icon-small.png' }]
   ]
 })

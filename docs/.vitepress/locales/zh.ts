@@ -39,7 +39,7 @@ function getDirsAsSidebarItems(dirPath: string, baseLink: string): DefaultTheme.
 }
 
 export const zhConfig = defineConfig({  
-  title: "RainWorld Modding Docs",
+  title: "RainWorld Modding",
   description: "RainWorld的非官方ModAPI页面",
   themeConfig: {
     nav: [
